@@ -49,5 +49,3 @@ Robot --variable BROWSER:firefox Tests/fbLoginTestSuite.robot
 **Note:** You can replace &quot;firefox&quot; with &quot;chrome&quot; or &quot;IE&quot; to run the test in Chrome or Internet Explorer
 
 ![](RackMultipart20210906-4-1ciief_html_2a32c2bc2658c81d.gif)
-
-C2 General
